@@ -1,2 +1,2 @@
 # PatternProblem
-Solving the different types of pattern problem  
+ Different types of pattern problem  
